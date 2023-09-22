@@ -1,2 +1,2 @@
 # spawnerGodotOrUnity
-Here is a compact little spawner script which can be used in either Godot or Unity game engines
+Here is a compact little spawner script which can be used in either Godot or Unity game engines. Insert empty game objects into the scene and assign them to the "spawners" field in the inspector. At these locations, enemy gameobjects which are assigned to the "Enemies" fields will spawn at randrom from one of the spawners. Feel free to change the numbers from 4 to whatever you please. Feel free to adjust the times 60f, 7f, or 25f to however long you please.
